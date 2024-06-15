@@ -1,4 +1,4 @@
-# PUC Goiás – Pontifícia Universidade Católica de Goiás            
+PUC Goiás – Pontifícia Universidade Católica de Goiás            
 Ciências da Computação
 Turma: 2024.1-CMP1066/C01 - PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO
 
