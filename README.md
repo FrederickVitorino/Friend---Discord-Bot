@@ -12,6 +12,9 @@ Descrição do Projeto: Um Bot da plataforma de comunicação “Discord” que 
 O projeto é dividido em 4 arquivos .py:
 
 main.py: Este é o arquivo principal que inicializa e executa o bot. Neste arquivo também estão localizados os eventos em que o bot interage e a árvore de comandos de barra do bot. 
+
 commands.py: Contém as funções assíncronas usadas pelos eventos e comandos definidos em ‘main.py’.
+
 functions.py: Contém funções utilitárias que suportam as funcionalidades de alguns comandos do bot.
+
 nums.py: Contém um dicionário chamado “nums” que mapeia números inteiros de 1 a 9 para seus respectivos códigos unicode.
