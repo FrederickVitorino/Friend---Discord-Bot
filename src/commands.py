@@ -1,7 +1,7 @@
 import discord as disc
 from typing import List
-from nums import nums
-from functions import gerarResposta, gerarNumero
+from src.nums import nums
+from src.functions import gerarResposta, gerarNumero
 
 async def responderMensagem(mensagem: disc.Message) -> None:
     msg: str = mensagem.content[1:]
